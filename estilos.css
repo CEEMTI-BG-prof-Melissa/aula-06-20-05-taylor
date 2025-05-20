@@ -1,0 +1,14 @@
+    div p{
+        color: blue;
+    }
+    div>p{
+        background-color: lightcoral;
+    }
+
+    h2 + p{
+        font-weight: bolder;
+    }
+
+    h2 ~ p {
+        font-style: italic;
+    }
